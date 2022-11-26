@@ -9,6 +9,6 @@
 * Изучили 5 моделей, из которой самой удачной оказалась __Lasso__ с финальной ошибкой: $8.373824844688306$
 
 ## Стек используемых технологий
-*`pandas` `Scikit-learn` `matplotlib` `seaborn` `numpy` `бутстреп`*
+*`pandas` `Scikit-learn` `matplotlib` `seaborn` `plotly` `numpy` `math` `scipy`*
 ## Статус проекта
 **Завершен**
